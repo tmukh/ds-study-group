@@ -18,7 +18,7 @@ We will be doing a quick overview of everything Git.
 #### GitHub
 - [https://skills.github.com](https://skills.github.com/)
 
-### SQL
+## SQL
 
 - [course on SQL and Databases](https://www.freecodecamp.org/news/sql-and-databases-full-course/) 
 
@@ -26,7 +26,7 @@ We will be doing a quick overview of everything Git.
 
 - freeCodeCamp now has a [free interactive SQL course](https://www.freecodecamp.org/learn/relational-database/).
 
-### Statistics
+## Statistics
 
 **Descriptive Statistics**  - summarize data
 
@@ -58,22 +58,22 @@ We will be doing a quick overview of everything Git.
 
 [An 8-hour University-level Statistics course](https://www.freecodecamp.org/news/free-statistics-course/)
 
-### Maths
+## Maths
 
 - **Linear Algebra**
 
 - **Single and multi-variable calculus**
 
-### Data Collection
+## Data Collection
 
 - web scraping
 - APIs
 
-#### Using Python to Access Web Data
+## Using Python to Access Web Data
 
 - [Introduction to Data Science in Python by Charles Russell Severance on Coursera](https://www.coursera.org/learn/python-network-data?specialization=python)
 
-#### Introduction to Data Science in Python
+## Introduction to Data Science in Python
 - [Introduction to Data Science in Python By Christopher Books on Coursera](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python#syllabus)
 
 ## Data Wrangling
@@ -84,7 +84,7 @@ We will be doing a quick overview of everything Git.
  - We'll be using [Python for Data Analysis](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) for fundamentals in Pandas, Numpy, and an introduction into plotting.
  - TBD
 
-### Programming
+## Programming
 - Data structures
     - data types
     - lists
