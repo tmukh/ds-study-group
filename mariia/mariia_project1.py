@@ -3,7 +3,7 @@ def found_float(st):
     for i in st:
         if i.isdigit():
             continue
-        elif i == ".":
+        elif i == ".": # What if input is "50.1.2", you have to account for multiple dots as well
             point=1
         else:
             return False
