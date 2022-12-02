@@ -3,13 +3,13 @@ def found_float(st):
     for i in st:
         if i.isdigit():
             continue
-        elif i == ".": # What if input is "50.1.2", you have to account for multiple dots as well
-            point=1
+        elif i == ".": 
+            point+=1
         else:
             return False
-    if point == 0:
-        return False
-    return True
+    if point == 1:
+        return True
+    return False
 
 def get_type(x):
     try:
